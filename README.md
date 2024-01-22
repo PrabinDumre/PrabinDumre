@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabin Dumre</h1>
-<h3 align="center">Passionate B.Tech Student Exploring the World of Data Anlayst on GitHub</h3>
+<h3 align="center">Passionate B.Tech Student Exploring the World of Data Anlayst(Data Science) on GitHub</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabindumre&label=Profile%20views&color=0e75b6&style=flat" alt="prabindumre" /> </p>
 
