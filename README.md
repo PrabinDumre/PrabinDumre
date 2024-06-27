@@ -5,7 +5,6 @@
 
 <pre>
 - 🔭 I’m currently working on - [50 Days of Data Analysis Challenge](https://github.com/PrabinDumre/50_Days_DataAnalysisChallenge)<br>
-                              - [100 Days of Python Learning](https://github.com/PrabinDumre/100_Days_Python_Learning)<br>
                               - [SQL Learning](https://github.com/PrabinDumre/SQL_Learning)<br>
 </pre>
 - 🌱 I’m currently learning **Data Analysis**
