@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabindumre&label=Profile%20views&color=0e75b6&style=flat" alt="prabindumre" /> </p>
 
 <pre>
-- 🔭 I’m currently working on - [50 Days of Data Analysis Challenge](https://github.com/PrabinDumre/50_Days_DataAnalysisChallenge)<br>
+- 🔭 I’m currently working on - [Data Analysis Projects](https://github.com/PrabinDumre/50_Days_DataAnalysisChallenge)<br>
                               - [SQL Learning](https://github.com/PrabinDumre/SQL_Learning)<br>
 </pre>
 - 🌱 I’m currently learning **Data Analysis**
