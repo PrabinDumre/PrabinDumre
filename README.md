@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabindumre&label=Profile%20views&color=0e75b6&style=flat" alt="prabindumre" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
-
-- 💬 Ask me about **python,data cleaning and manupulation,data visualization**
+- 💬 Ask me about **Python,Data cleaning and Manupulation,Data Visualization,Machine Learning, C#, Tinkarcad, Content Writing**
 
 - 📫 How to reach me **prabindumre16700@gmail.com**
 
