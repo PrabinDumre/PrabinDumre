@@ -6,6 +6,7 @@
 - 💬 Ask me about **Python,Data cleaning and Manupulation,Data Visualization,Machine Learning, C#, Tinkarcad, Content Writing**
 
 - 📫 How to reach me **prabindumre16700@gmail.com**
+- Visit my profile **www.prabindumre.com.np/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
